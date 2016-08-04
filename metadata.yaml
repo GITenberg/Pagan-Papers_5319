@@ -1,0 +1,30 @@
+_repo: Pagan-Papers_5319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grahame, Kenneth
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '153'
+    url: http://www.gutenberg.org/2009/agents/153
+    wikipedia: http://en.wikipedia.org/wiki/Kenneth_Grahame
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The romance of the road -- The romance of the rail -- Non libri sed
+  liberi -- Loafing -- Cheap knowledge -- The rural Pan -- Marginalia -- The eternal
+  whither -- Deus terminus -- Of smoking -- An autumn encounter -- The white poppy
+  -- A Bohemian in exile -- Justifiable homicide -- The fairy wicket -- Aboard the
+  galley -- The lost centaur -- Orion
+title: Pagan Papers
+url: http://www.gutenberg.org/ebooks/5319
